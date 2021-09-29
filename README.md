@@ -3,8 +3,8 @@
 #### Main goal
 
 * Practice using Django Rest Framework
-  * Authentication
+    * Authentication
     * OAuth?
 * Practice using React
-  * Redux
+    * Redux
 * Tracking stock status
